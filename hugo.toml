@@ -2,3 +2,7 @@ baseURL = 'https://ctmal956.github.io/'
 languageCode = 'en-us'
 title = 'ctm.maloneylights.com'
 theme = 'mainroad'
+
+[Author]
+name = "Chris Maloney"
+
