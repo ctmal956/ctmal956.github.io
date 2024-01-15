@@ -1,0 +1,21 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://localhost:1313/about/</loc><lastmod>2024-01-14T18:57:06-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/projects/</loc><lastmod>2024-01-14T18:53:53-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/projects/testproject/</loc><lastmod>2024-01-14T18:53:53-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/vixenprojects/3dobjectsequencersuite/</loc><lastmod>2013-03-28T22:10:16-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/vixenprojects/</loc><lastmod>2013-03-28T22:10:16-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/vixenprojects/skullsequencerplugin/</loc><lastmod>2011-08-13T23:08:58-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/vixenprojects/skullsequenceraddin/</loc><lastmod>2011-08-13T22:34:06-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/vixenprojects/vixenaddintutorial/</loc><lastmod>2011-08-07T23:50:04-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/vixenprojects/vixenplugintutorial/</loc><lastmod>2011-08-07T23:50:04-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/electronics/atxadapterboard/</loc><lastmod>2011-08-07T23:08:58-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/electronics/</loc><lastmod>2011-08-07T23:08:58-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/electronics/renardservocontroller/</loc><lastmod>2011-08-07T23:08:58-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/electronics/servossrreplacementboard/</loc><lastmod>2011-08-07T23:08:58-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/electronics/renard8dc/</loc><lastmod>2011-08-05T23:45:13-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/</loc></url><url>
+            <loc>http://localhost:1313/tags/</loc></url></urlset>

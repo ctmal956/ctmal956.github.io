@@ -1,0 +1,14 @@
+# menu config
+
+[[main]]
+    identifier = "electronics"
+    name = "Electronics"
+    url = "/electronics/"
+    weight = 1
+    title = "Electronics Projects"
+[[main]]
+    identifier = "vixenprojects"
+    name = "Vixen"
+    url = "/vixenprojects/"
+    weight = 2
+    title = "Vixen Projects"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronics on ctm.maloneylights.com</title>
+    <link>https://ctmal956.github.io/electronics/</link>
+    <description>Recent content in Electronics on ctm.maloneylights.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Jan 2024 22:01:16 -0500</lastBuildDate>
+    <atom:link href="https://ctmal956.github.io/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testproject</title>
+      <link>https://ctmal956.github.io/electronics/testproject/</link>
+      <pubDate>Sun, 14 Jan 2024 22:01:16 -0500</pubDate>
+      <guid>https://ctmal956.github.io/electronics/testproject/</guid>
+      <description>This is a test electronics post.</description>
+    </item>
+  </channel>
+</rss>

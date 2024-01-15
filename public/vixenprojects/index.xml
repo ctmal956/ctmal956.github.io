@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vixenprojects on ctm.maloneylights.com</title>
+    <link>https://ctmal956.github.io/vixenprojects/</link>
+    <description>Recent content in Vixenprojects on ctm.maloneylights.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Mar 2013 22:10:16 -0500</lastBuildDate>
+    <atom:link href="https://ctmal956.github.io/vixenprojects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3d Object Sequencer Suite</title>
+      <link>https://ctmal956.github.io/vixenprojects/3dobjectsequencersuite/</link>
+      <pubDate>Thu, 28 Mar 2013 22:10:16 -0500</pubDate>
+      <guid>https://ctmal956.github.io/vixenprojects/3dobjectsequencersuite/</guid>
+      <description>This has been available for awhile but I just realized that I never published it on this website. Anyway….&#xA;Download: https://dl.dropbox.com/u/43776767/ObjectModelSuite.zip&#xA;The 3D Object Sequencer Suite is a Vixen 2 AddIn and a Vixen 2 Plugin which will aid in sequencing 3d objects for your display. I suppose the most common 3D object people generally use is the 3D skull.&#xA;This version is basically a rewrite of the Skull Sequencer series with some tweaks and one huge new feature: You can now create your own 3D objects to use with the Suite!</description>
+    </item>
+    <item>
+      <title>Skull Sequencer AddIn</title>
+      <link>https://ctmal956.github.io/vixenprojects/skullsequenceraddin/skullsequenceraddin/</link>
+      <pubDate>Sat, 13 Aug 2011 22:34:06 -0500</pubDate>
+      <guid>https://ctmal956.github.io/vixenprojects/skullsequenceraddin/skullsequenceraddin/</guid>
+      <description>The Skull sequencer is a Vixen AddIn to help in sequencing 3D skulls for halloween. Consider it abandoned at this point because it has been replaced by the 3D Object Suite.&#xA;I do have the download still available though and it is available in the download section.&#xA;Skull Sequencer AddIn </description>
+    </item>
+  </channel>
+</rss>
