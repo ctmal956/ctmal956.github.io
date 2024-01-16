@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'hugotest'
+theme = "hugo-blog-awesome"
+
+# menu
+[menus]
+    [[menus.main]]
+        identifier = 'electronics'
+        name = 'Electronics'
+        url = "/electronics/"
+        pageRef = "electronics"
+        weight = 10
+    [[menus.main]]
+        identifier = 'vixenprojects'
+        name = 'Vixen Projects'
+        url = "/vixenProjects/"
+        weight = 20
+    [[menus.main]]
+        identifier = 'downloads'
+        name = 'Downloads'
+        url = "/downloads/"
+        weight = 30
+

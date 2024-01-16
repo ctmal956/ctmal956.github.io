@@ -1,8 +1,0 @@
-baseurl = "https://ctmal956.github.io"
-title = "ctm.maloneylights.com"
-enableRobotsTXT = true
-enableGitInfo = false
-enableEmoji = false
-theme = "DoIt"
-description = "Outstanding!"
-defaultTheme = "dark"
