@@ -1,0 +1,24 @@
+{{- define "main" -}}
+<div class="wrapper list-page">
+    <header class="header">
+        <h1 class="header-title center">{{ .Title }}</h1>
+    </header>
+    <main class="page-content" aria-label="Content">
+        <section>
+        {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+            {{ if eq "categories" $taxonomyname }}
+                {{ range $key, $value := $taxonomy }}
+                <h2 class="post-year">{{ $key }}</h2>
+                    {{ range .Pages }}
+                    <!-- <li>{{ .RawContent }}</li> -->
+                        {{ partial "downloadPostCard" . }}
+                    {{ end }}
+                    </ul>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+        </section>
+
+    </main>
+</div>
+{{- end -}}

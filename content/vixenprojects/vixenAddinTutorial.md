@@ -8,6 +8,10 @@ As a followup to the Plugin Programming Tutorial I created a tutorial for AddInâ
 
 Itâ€™s a 7 part series that can be found on YouTube.
 
+Here are the source files:
+[source files](/repository/downloads/AddInTutorial.zip)
+
 Here's part 1:
 
 {{< youtube W8d1Sw0HNic >}}
+

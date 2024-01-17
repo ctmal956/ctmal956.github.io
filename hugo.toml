@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://localhost:1313/'
 languageCode = 'en-us'
 title = 'hugotest'
 theme = "hugo-blog-awesome"
@@ -15,10 +15,46 @@ theme = "hugo-blog-awesome"
         identifier = 'vixenprojects'
         name = 'Vixen Projects'
         url = "/vixenProjects/"
+        pageRef = "vixenProjects"
         weight = 20
     [[menus.main]]
         identifier = 'downloads'
         name = 'Downloads'
         url = "/downloads/"
+        pageRef = "downloads"
         weight = 30
+
+# Params - the theme specific stuff
+[Params]
+    dateFormat = "January 2 2006"
+    [Params.Author]
+        intro = "Welcome!"
+
+# hugo blog awesome settings
+# Enable emojis globally
+enableEmoji = true
+ignoreErrors = ["additional-script-loading-error"]
+
+# set markup.highlight.noClasses=false to enable code highlight
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+	[markup.tableOfContents]
+		startLevel = 2 # ToC starts from H2
+		endLevel = 4 # ToC ends at H4
+		ordered = false # generates <ul> instead of <ol>
+
+defaultColor = "dark"
+mainSections = ['electronics','vixenProjects']
+toc = true              # set to false to disable table of contents 'globally'
+tocOpen = false         # set to true to open table of contents by default
+goToTop = true          # set to false to disable 'go to top' button
+additionalScripts = ['js/custom.js', 'js/custom-2.js']
+rssFeedDescription = "summary"                      # available options: 1) summary 2) full
+
+# Allow to override `browserconfig.xml` params (configuration for windows embeded browsers)
+[params.browserconfig]
+  TileColor = "#2d89ef" # default windows 10 blue tile color
 
