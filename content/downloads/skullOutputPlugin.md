@@ -5,4 +5,3 @@ draft = false
 categories = ['Vixen']
 +++
 [Skull Output Plugin v1.0.0.1 Vixen 2](/repository/downloads/SkullOuputPlugin1001.zip)
-[Title](../../static/repository/downloads/SkullOuputPlugin1001.zip)

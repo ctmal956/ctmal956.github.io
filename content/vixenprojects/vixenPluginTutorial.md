@@ -8,6 +8,8 @@ Here is the first in a series of tutorials I wrote to help beginners get started
 
 There are 15 parts to the tutorial, all can be viewed on YouTube.
 
+[Plugin Tutorial Source Files](/repository/downloads/Tutorial.zip)
+
 Here's part 1:
 
 {{< youtube mtlcbChA9dQ >}}

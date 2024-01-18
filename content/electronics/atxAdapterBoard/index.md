@@ -9,3 +9,6 @@ This board was created to make a workbench power supply from an old computer pow
 The board gives access to 12v, 5v and 3.3v from the power supply. There is also an indicator light that will tell you when the power supply is plugged in.
 
 The board was designed in ExpressPCB. It can easily be self etched. I’ve included all the files for download for anyone that would like to use this.
+
+[ATX Adapter ExpressPCB files](/repository/downloads/ATXAdaptor.zip)
+[ATX Adapter pdf's](/repository/downloads/ATX_Adaptor_pdfs.zip)

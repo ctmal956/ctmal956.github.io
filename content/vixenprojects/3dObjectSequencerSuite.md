@@ -6,7 +6,7 @@ draft = false
 
 This has been available for awhile but I just realized that I never published it on this website.  Anyway….
 
-Download:  [https://dl.dropbox.com/u/43776767/ObjectModelSuite.zip](https://dl.dropbox.com/u/43776767/ObjectModelSuite.zip)
+Download:  [3d Object Suite for Vixen 2](/repository/downloads/3dObjectSuite.zip)
 
 The 3D Object Sequencer Suite is a Vixen 2 AddIn and a Vixen 2 Plugin which will aid in sequencing 3d objects for your display.  I suppose the most common 3D object people generally use is the 3D skull.
 

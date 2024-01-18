@@ -8,4 +8,6 @@ The Skull Output plugin is a plugin for Vixen 2 to give a 3d visual representati
 
 Here is a sneak preview of my Skull Output plugin for Vixen.
 
+[Skull Output Plugin v1.0.0.1 Vixen 2](/repository/downloads/SkullOuputPlugin1001.zip)
+
 {{< figure src="SkullOutput-300x216.jpg" title="The Skull Output Plugin" >}}

@@ -5,3 +5,5 @@ draft = false
 +++
 
 This is my version of the Renard 8 origionally designed by Phil Short.  This version is strictly for DC control.  I added provisions for AC use but they have not been tested and I believe they will not work.  The pcb files were created using ExpressPCB.
+
+[Renard 8 DC](/repository/downloads/Ren8DC.zip)
