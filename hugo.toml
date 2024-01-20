@@ -27,8 +27,10 @@ theme = "hugo-blog-awesome"
 # Params - the theme specific stuff
 [Params]
     dateFormat = "January 2 2006"
+    defaultColor = "dark"
     [Params.Author]
         intro = "Welcome!"
+    
 
 # hugo blog awesome settings
 # Enable emojis globally
